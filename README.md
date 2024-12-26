@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Hướng Dẫn Cài Đặt và Chạy
+## Hướng Dẫn Cài Đặt và Chạy
 
 ### Yêu cầu hệ thống
 - JDK 8 trở lên.
